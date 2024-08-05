@@ -116,6 +116,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="pTKxA4EhyeNnc-9FHxFn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_MBjRLvO4ldjzD8hgFdt-20" source="a27PZKkFM3cRq0MSkT6U-1" target="pTKxA4EhyeNnc-9FHxFn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a27PZKkFM3cRq0MSkT6U-7" value="Database" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="1130" y="20" width="460" height="330" as="geometry" />
         </mxCell>
