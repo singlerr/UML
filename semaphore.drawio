@@ -123,7 +123,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pTKxA4EhyeNnc-9FHxFn-30" value="&lt;div&gt;«interface&lt;b&gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;CallState&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="_MBjRLvO4ldjzD8hgFdt-20">
-          <mxGeometry x="380" y="240" width="110" height="50" as="geometry" />
+          <mxGeometry x="380" y="250" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pTKxA4EhyeNnc-9FHxFn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_MBjRLvO4ldjzD8hgFdt-20" source="a27PZKkFM3cRq0MSkT6U-1" target="pTKxA4EhyeNnc-9FHxFn-30">
           <mxGeometry relative="1" as="geometry" />
