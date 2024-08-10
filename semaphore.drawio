@@ -82,8 +82,23 @@
             <mxPoint x="640" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rMiLLmkstOH5KNfmA0AR-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Object:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;field1 = value1&lt;br/&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rMiLLmkstOH5KNfmA0AR-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Data Structure:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1190" y="440" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rMiLLmkstOH5KNfmA0AR-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Data Structure:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="200" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rMiLLmkstOH5KNfmA0AR-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;DataStructure:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rMiLLmkstOH5KNfmA0AR-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;DataStructure:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="-30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rMiLLmkstOH5KNfmA0AR-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;DataStructure:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="200" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rMiLLmkstOH5KNfmA0AR-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;DataStructure:Type&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="440" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
